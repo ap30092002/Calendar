@@ -17,6 +17,7 @@ Features
 - Simple event management: add, view, and list events for each day
 
 Getting Started
+
 1. Clone or Download
 
 Clone this repository or download the main.html file.
@@ -27,7 +28,7 @@ Simply open main.html in your web browser to use the calendar.
 
 File Structure
 
-main.html: Contains all the HTML, CSS, and JavaScript needed for the calendar. No external dependencies required.
+- main.html: Contains all the HTML, CSS, and JavaScript needed for the calendar. No external dependencies required.
 
 How It Works
 
@@ -49,26 +50,25 @@ You can easily modify the following:
 
 - Accessibility: Add ARIA labels or keyboard navigation for improved accessibility.
 
-Example Usage
 
-xml
-<!-- To use, simply open main.html in your browser -->
 Possible Extensions
-Integrate with Google Calendar or other calendar APIs
 
-Support for recurring events and reminders
+- Integrate with Google Calendar or other calendar APIs
 
-Yearly or weekly calendar views
+- Support for recurring events and reminders
 
-Event editing and deletion functionality
+- Yearly or weekly calendar views
+
+- Event editing and deletion functionality
 
 Security Considerations
 
-Always validate user input when adding events.
+- Always validate user input when adding events.
 
-If integrating with external services, ensure secure authentication and data handling.
+- If integrating with external services, ensure secure authentication and data handling.
 
 License
-This project is open-source and free to use for any purpose.
+
+- This project is open-source and free to use for any purpose.
 
 Enjoy organizing your schedule with this simple HTML calendar!
